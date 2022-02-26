@@ -1,4 +1,4 @@
 # Gym1
 https://saurdfsafd.github.io/Gym1/
 
-file:///C:/Users/Saurabh%20Mohole/Desktop/Web%20Development/To-do-list/ToDoList/index.html
+http://127.0.0.1:5500/index.html
